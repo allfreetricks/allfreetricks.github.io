@@ -2,8 +2,6 @@
 layout: post
 title:  "Get Rs.50 Free Talktime With Hike Messenger "
 permalink: /2013/03/get-rs50-free-talktime-with-hike.html
-redirect_to:
-  - https://www.goyllo.com/tricks/free-recharge/hike-invite-earn-rewards/
 ---
 
 When it comes to free messaging from smartphone then there are numerous of applications to communicate with our friends, Coworkers and family members, but the quickest way is Instant online messaging. for now Whatsapp is the most popular instant messaging client but sadly It is not free for Life, as you have to buy the service after one year. There can be no other competitive alternatives to whatsapp but in New Delhi a new Messenger is made with love named “Hike” the Hike messenger have gained a lot of popularity in short period. The Hike comes with Fre instant messaging for life without any ads. The features of Hike is almost same as whatsapp but some additional benefits makes us to Choose Hike rather than whatsapp.
