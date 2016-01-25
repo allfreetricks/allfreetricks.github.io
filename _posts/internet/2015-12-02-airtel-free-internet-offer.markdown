@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Airtel Free Internet Offer - Get 1.2GB Data Free"
+title:  "Airtel Free Internet Offer - Get 1.2 GB Data Free"
 permalink: /airtel-free-internet-offer.html
 
 ---
@@ -16,6 +16,10 @@ Hello guys, did you know, Airtel users can get 1.2 GB data absolutely free, it c
 
 
 Here is note that, you should install these apps from <a href="http://www.airtel.in/free/" rel="nofollow" target="_blank">http://www.airtel.in/free/</a>. From that page, just provide your Airtel mobile number, and they will send you all apps link in SMS. And further you will receive messages of Free Internet Data, once you installed Airtel app.
+
+**Terms and Condition:**
+
+1.2 GB will be credited over 3 months as 100MB Night Data per app per month. <a href="http://www.airtel.in/free/terms.html" rel="nofollow" target="_blank">Read More T&C</a>.
 
 Enjoy Airtel Free Internet Offer:)
 
