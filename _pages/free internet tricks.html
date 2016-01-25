@@ -4,7 +4,7 @@ title:  "Free Internet Tricks and Offers"
 permalink: /free-internet-tricks-and-offers.html
 ---
 <ul class="post-list">
-    {% for post in site.categories.freeinternettricks reversed %}
+    {% for post in site.categories.freeinternettricks %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} - <span class="post-meta">{{ post.date | date: "%-d %B %Y" }}</span></a>
