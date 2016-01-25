@@ -1,19 +1,14 @@
 ---
-layout: default
+layout: page
+title:  "Free Recharge Tricks and Offers"
+permalink: /free-recharge-tricks-and-offers.html
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">All Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
+<ul class="post-list">
+    {% for post in site.categories.freerechargetricks reversed %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} - <span class="post-meta">{{ post.date | date: "%-d %B %Y" }}</span></a>
         </h2>
       </li>
     {% endfor %}
-  </ul>
-
-</div>
+</ul>

@@ -6,7 +6,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.allfreetricks.com" # the base hostname & protocol for your site
 
 # Build settings
+highlighter: pygments
 markdown: kramdown
+permalink: none
+
+include: ['_pages']
+
 gems:
   - jekyll-redirect-from
   
