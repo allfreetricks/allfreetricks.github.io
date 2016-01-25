@@ -2,6 +2,8 @@
 layout: post
 title:  "Destroy Your Friends Computer Using Simple Notepad Virus"
 permalink: /destroy-your-friends-computer.html
+redirect_from:
+ - /2013/02/destroy-your-friends-computer-using.html
 ---
 
 In this post we’ll take a look on how to create a deadly computer virus to destroy your enemy or victim’s PC…
