@@ -55,3 +55,5 @@ As compared with other promotional and referring services, Hike is much better f
 
 Hike messenger is now Available on IoS, Android, Windows phone, Nokia Ovi Store and coming soon for blackberry devices, Share us your reviews on this whatsapp alternative built with love in New Delhi
 
+Please checkout our other <a href="https://www.allfreetricks.com/free-recharge-tricks-and-offers.html">new recharge tricks</a>. 
+
