@@ -5,7 +5,7 @@ permalink: /destroy-your-friends-computer.html
 redirect_from:
  - /2013/02/destroy-your-friends-computer-using.html
 ---
-
+<stong>This tutorial is education purpose only</strong>
 In this post we’ll take a look on how to create a deadly computer virus to destroy your enemy or victim’s PC…
 
 Open Notepad, Type or Paste in the following command:-
