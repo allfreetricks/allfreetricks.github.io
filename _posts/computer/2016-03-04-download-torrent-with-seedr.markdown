@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Download Torrent Free with Seedr"
-permalink: /download-torrent-with-seedr.html
+title:  "Seedr Review - Download Torrent Easily"
+permalink: seedr-review.html
+redirect_from:
+ - /download-torrent-with-seedr.html
 ---
 
 There are many of cloud based torrent application on which you can download torrent instantly (You can even use IDM with Seedr, just make sure IDM plugin is installed properly in your browser), while other cloud based torrent website have some limitation specially when we talked about private torrent trackers and freebies plan limit.
