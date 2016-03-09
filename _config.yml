@@ -7,7 +7,6 @@ url: "https://www.allfreetricks.com" # the base hostname & protocol for your sit
 
 # Build settings
 highlighter: pygments
-markdown: kramdown
 permalink: none
 
 include: ['_pages']
