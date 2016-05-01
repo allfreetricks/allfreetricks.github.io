@@ -92,3 +92,10 @@ Hike messenger is now Available on IoS, Android, Windows phone, Nokia Ovi Store 
 
 Please checkout our other <a href="https://www.allfreetricks.com/free-recharge-tricks-and-offers.html">new recharge tricks</a>. 
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6217059145544649",
+    enable_page_level_ads: true
+  });
+</script>
