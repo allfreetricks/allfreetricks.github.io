@@ -1,0 +1,49 @@
+* {
+	margin:0;
+	padding:0;
+}
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background: url(../images/siteBackground.png) left top;
+	color: #666565;
+}
+h2, h3, h4, h5, h6 {
+	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
+	padding:0 15px;
+}
+p {
+	padding:10px 15px;
+}
+h1 {
+	font-size:30px;
+}
+h2 {
+	font-size:18px;
+}
+h1, h2 {
+	color:#818d75;
+}
+a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+	border: none;
+}
+.picPreview {
+	border:0px;
+	text-align:center;
+}
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+a:link {
+	color:#818d75;
+	text-decoration: underline; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+}
+a:visited {
+	color: #818d75;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+	text-decoration: none;
+	color:#818d75;
+}
+.clearfloat { 
+	clear:both;
+}
