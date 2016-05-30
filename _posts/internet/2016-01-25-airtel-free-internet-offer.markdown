@@ -23,11 +23,3 @@ Here is note that, you should install these apps from <a href="http://www.airtel
 1.2 GB will be credited over 3 months as 100MB Night Data per app per month. <a href="http://www.airtel.in/free/terms.html" rel="nofollow" target="_blank">Read More T&C</a>.
 
 Enjoy Airtel Free Internet Offer:)
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-6217059145544649",
-    enable_page_level_ads: true
-  });
-</script>
