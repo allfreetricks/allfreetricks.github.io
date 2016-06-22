@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'/>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<title>DataBack App</title>
+<style type='text/css'>
+html { font-family: sans-serif; }
+body { margin: 0px; }
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
+a { background-color: transparent; }
+a:active, a:hover { outline: 0px; }
+* { box-sizing: border-box; }
+::after, ::before { box-sizing: border-box; }
+html { font-size: 10px; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.42857; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); }
+a { color: rgb(51, 122, 183); text-decoration: none; }
+a:focus, a:hover { color: rgb(35, 82, 124); text-decoration: underline; }
+a:focus { outline: -webkit-focus-ring-color auto 5px; outline-offset: -2px; }
+p { margin: 0px 0px 10px; }
+.text-center { text-align: center; }
+.btn { display: inline-block; padding: 6px 12px; margin-bottom: 0px; font-size: 14px; font-weight: 400; line-height: 1.42857; text-align: center; white-space: nowrap; vertical-align: middle; touch-action: manipulation; cursor: pointer; -webkit-user-select: none; border: 1px solid transparent; border-radius: 4px; background-image: none; }
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus { outline: -webkit-focus-ring-color auto 5px; outline-offset: -2px; }
+.btn.focus, .btn:focus, .btn:hover { color: rgb(51, 51, 51); text-decoration: none; }
+.btn.active, .btn:active { outline: 0px; box-shadow: rgba(0, 0, 0, 0.121569) 0px 3px 5px inset; background-image: none; }
+.btn-success { color: rgb(255, 255, 255); border-color: rgb(76, 174, 76); background-color: rgb(92, 184, 92); }
+.btn-success.focus, .btn-success:focus { color: rgb(255, 255, 255); border-color: rgb(37, 86, 37); background-color: rgb(68, 157, 68); }
+.btn-success:hover { color: rgb(255, 255, 255); border-color: rgb(57, 132, 57); background-color: rgb(68, 157, 68); }
+.btn-success.active, .btn-success:active, .open > .dropdown-toggle.btn-success { color: rgb(255, 255, 255); border-color: rgb(57, 132, 57); background-color: rgb(68, 157, 68); }
+.btn-success.active.focus, .btn-success.active:focus, .btn-success.active:hover, .btn-success:active.focus, .btn-success:active:focus, .btn-success:active:hover, .open > .dropdown-toggle.btn-success.focus, .open > .dropdown-toggle.btn-success:focus, .open > .dropdown-toggle.btn-success:hover { color: rgb(255, 255, 255); border-color: rgb(37, 86, 37); background-color: rgb(57, 132, 57); }
+.btn-success.active, .btn-success:active, .open > .dropdown-toggle.btn-success { background-image: none; }
+.fade { opacity: 0; transition: opacity 0.15s linear; }
+.fade.in { opacity: 1; }
+ .btn:hover, .btn-group > .btn.active, .btn-group > .btn:active, .btn-group > .btn:focus, .btn-group > .btn:hover { z-index: 2; }
+.tab-content > .tab-pane { display: none; }
+.tab-content > .active { display: block; }
+.btn-group-vertical > .btn-group::after, .btn-group-vertical > .btn-group::before, .btn-toolbar::after, .btn-toolbar::before, .clearfix::after, .clearfix::before, .container-fluid::after, .container-fluid::before, .container::after, .container::before, .dl-horizontal dd::after, .dl-horizontal dd::before, .form-horizontal .form-group::after, .form-horizontal .form-group::before, .modal-footer::after, .modal-footer::before, .modal-header::after, .modal-header::before, .nav::after, .nav::before, .navbar-collapse::after, .navbar-collapse::before, .navbar-header::after, .navbar-header::before, .navbar::after, .navbar::before, .pager::after, .pager::before, .panel-body::after, .panel-body::before, .row::after, .row::before { display: table; content: " "; }
+.btn-group-vertical > .btn-group::after, .btn-toolbar::after, .clearfix::after, .container-fluid::after, .container::after, .dl-horizontal dd::after, .form-horizontal .form-group::after, .modal-footer::after, .modal-header::after, .nav::after, .navbar-collapse::after, .navbar-header::after, .navbar::after, .pager::after, .panel-body::after, .row::after { clear: both; }
+a { outline: 0px; }
+.board { width: 75%; margin: 60px auto; height: 650px; background: rgb(255, 255, 255); }
+.tab-content { }
+.tab-pane { position: relative; padding-top: 20px; }
+.tab-content .head { font-family: "Roboto Condensed", sans-serif; font-size: 25px; text-transform: uppercase; padding-bottom: 10px; }
+.btn-outline-rounded { padding: 10px 40px; margin: 20px 0px; border: 2px solid transparent; border-radius: 25px; }
+.btn.green { color: rgb(255, 255, 255); background-color: rgb(92, 184, 92); }
+</style>
+</head>
+  <body>
+<div class='no-items section' id='main'></div>
+<div class='container-fluid'>
+<section style='background:#efefe9;'>
+<div class='container'>
+<div class='row'>
+<div class='board'>
+<div class='tab-content'>
+<div class='tab-pane fade in active' id='home'>
+<section>
+<h3 class='head text-center'>Get your Internet Data Back</h3>
+<center>
+<p><strong>अब आप एस एप्लीकेशन से अपना वपराश हुआ whatsapp का इन्टरनेट डेटा फिरसे वापस ले सकते हे.</strong></p>
+<a class='btn-submit btn btn-success btn-outline-rounded green' href='http://track.tapgerine.net/?aff_id=983407&offer_id=18927'>इनस्टॉल करे अभी </a>
+</center></section></div></div></div></div></div></section></div></body></html>
