@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Seedr Review - Download Torrent Easily"
 permalink: seedr-review.html
 redirect_from:

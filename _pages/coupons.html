@@ -1,13 +1,10 @@
 ---
-layout: default
+layout: page
+title:  "Mobile Recharge Coupons"
+permalink: /coupons.html
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">All Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
+<ul class="post-list">
+    {% for post in site.categories.coupons %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -15,6 +12,4 @@ layout: default
 		{{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}
       </li>
     {% endfor %}
-  </ul>
-
-</div>
+</ul>
