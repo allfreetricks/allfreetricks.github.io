@@ -10,7 +10,7 @@ layout: default
     {% for post in site.posts %}
       <li>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} - <span class="post-meta">{{ post.date | date: "%-d %B %Y" }}</span></a>
         </h2>
 		{{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}
       </li>
