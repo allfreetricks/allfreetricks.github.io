@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Paytm Coupons and Promocode Offers"
+description: Checkout the lastest paytm coupons and promo code offers.
 permalink: /paytm-coupons-and-promo-code-offers.html
 category: coupons
 ---

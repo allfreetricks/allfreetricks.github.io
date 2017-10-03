@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Destroy Your Friends Computer Using Simple Notepad Virus"
+description: Learn how to create a simple virus in notepad file which delete all files.
 permalink: /destroy-your-friends-computer.html
 redirect_from:
  - /2013/02/destroy-your-friends-computer-using.html

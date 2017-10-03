@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Freecharge Coupons and Promocode Offers"
+description: Checkout latest freecharge coupons and promo code offers.
 permalink: /freecharge-coupons-and-promo-code-offers.html
 category: coupons
 ---

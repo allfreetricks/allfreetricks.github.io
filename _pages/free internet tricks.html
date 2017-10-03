@@ -4,12 +4,10 @@ title:  "Free Internet Tricks and Offers"
 permalink: /free-internet-tricks-and-offers.html
 ---
 <ul class="post-list">
-    {% for post in site.categories.freeinternettricks %}
+    {% for post in site.categories.free-internet-tricks %}
       <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-		{{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} - <span class="post-meta">{{ post.date | date: "%-d %B %Y" }}</span></a></h2>
+		{{ post.description }}
       </li>
     {% endfor %}
 </ul>

@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Airtel Free Internet Offer - Get 1.2 GB Data Free"
+description: Insall 4 Airtel App and get 300MB free data per app.
 permalink: /airtel-free-internet-offer.html
-categories: 
-- freeinternettricks
+categories: free-internet-tricks
+mycat: Free Internet Tricks
+catlink: free-internet-tricks-and-offers.html
 ---
 
 Hello guys, did you know, Airtel users can get 1.2 GB data absolutely free, it can be 2G data or 3G data depends on which type of service you’re using. As we know, Airtel is a largest telecommunication network in India, and it’s offer many of services, and now they are bringing movies, music and games mobile apps as well. So if you install that app in your smartphone, then you can get 300MB free Internet data by installing one Airtel app, so if you install all 4 Airtel apps, then you can get 1.2 GB Internet data easily.
