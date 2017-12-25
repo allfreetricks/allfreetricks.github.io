@@ -4,12 +4,9 @@ title:  "Contact Us"
 permalink: /contact.html
 ---
 
-We are very active on social media websites, so feel free to contact us via social media pages. 
+We are very active in our <a href="https://www.facebook.com/allfreetrickscom" rel="nofollow" target="_blank">Facebook Page</a>, so you will get there response very fast.
 
-<a href="https://plus.google.com/+Allfreetrickscom">Google Plus</a>
+Or you can contact us via below Google Form as well.
 
-<a href="https://www.facebook.com/allfreetrickscom">Facebook</a>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWYJ-rdzhm26lBgZddUxAPqrWmu8xwcF9LjpaWSQNzr32rhg/viewform?embedded=true" width="650" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-<a href="https://twitter.com/allfreetricks">Twitter</a>
-
-Alternatively, you can also contact us on our email - `contact@allfreetricks.com`
