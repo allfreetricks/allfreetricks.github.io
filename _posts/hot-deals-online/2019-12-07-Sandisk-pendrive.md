@@ -12,4 +12,4 @@ We got new offer on Pendrive/USB drive. It's very cheap and hot deals right now.
 
 You can see all the products details on FlipKart.
 
-<a style="color: #fff;background-color:#498AF4;padding: 10px 10px 10px 10px;" role="button" href="https://www.flipkart.com/sandisk-cruzer-blade-16-gb-utility-pendrive/p/itmf6vyqugk3g8gn" rel="nofollow" target="_blank">Get the Deal Here</a>
+<center><a style="color: #fff;background-color:#498AF4;padding: 10px 10px 10px 10px;" role="button" href="https://www.flipkart.com/sandisk-cruzer-blade-16-gb-utility-pendrive/p/itmf6vyqugk3g8gn" rel="nofollow" target="_blank">Get the Deal Here</a></center>
