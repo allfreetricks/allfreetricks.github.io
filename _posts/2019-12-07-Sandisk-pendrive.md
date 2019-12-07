@@ -2,7 +2,7 @@
 layout: post
 title:  "Sandisk Cruzer Blade 16 GB Utility Pendrive for only Rs. 196"
 description: Buy Sandisk Cruzer Blade 16 GB Utility Pendrive for only Rs. 196 from flipkart. 
-permalink: /sandisk-cruzer-blade-16gb-pendrive-from-flipkart-only-196.html
+permalink: /sandisk-cruzer-blade-pendrive.html
 categories: hot-deals-online
 ---
 
